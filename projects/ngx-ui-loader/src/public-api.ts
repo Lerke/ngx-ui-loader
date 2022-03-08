@@ -17,3 +17,5 @@ export {
 } from './lib/utils/interfaces';
 export { NgxUiLoaderRouterModule } from './lib/router/ngx-ui-loader-router.module';
 export { NgxUiLoaderHttpModule } from './lib/http/ngx-ui-loader-http.module';
+export { NgxUiLoaderComponent } from 'projects/ngx-ui-loader/src/lib/core/ngx-ui-loader.component';
+export { NgxUiLoaderBlurredDirective } from 'projects/ngx-ui-loader/src/lib/core/ngx-ui-loader-blurred.directive';

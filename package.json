@@ -1,5 +1,5 @@
 {
-  "name": "ngx-ui-loader",
+  "name": "@lerkel/ngx-ui-loader",
   "version": "11.0.0",
   "scripts": {
     "ng": "ng",
