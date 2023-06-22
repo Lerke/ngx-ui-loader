@@ -1,7 +1,7 @@
 {
   "name": "@lerkel/ngx-ui-loader",
   "description": "An all-in-one and fully customizable loader/spinner for Angular applications. It supports foreground, background spinner/loader, indicative progress bar and multiple loaders.",
-  "version": "13.3.3",
+  "version": "16.0.0",
   "scripts": {
     "build": "../../node_modules/.bin/tsc -p tsconfig.schematics.json",
     "copy:collections": "cp schematics/*collection.json ../../dist/ngx-ui-loader/schematics/",
@@ -20,10 +20,10 @@
   "license": "MIT",
   "private": false,
   "peerDependencies": {
-    "@angular/common": "13.3.3",
-    "@angular/core": "13.3.3",
-    "@angular/platform-browser": "13.3.3",
-    "@angular/router": "13.3.3",
+    "@angular/common": "^16.1.2",
+    "@angular/core": "^16.1.2",
+    "@angular/platform-browser": "^16.1.2",
+    "@angular/router": "16.1.2",
     "rxjs": ">=6.6.0"
   },
   "dependencies": {
